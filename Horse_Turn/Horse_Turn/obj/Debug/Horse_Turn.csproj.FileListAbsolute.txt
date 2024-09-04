@@ -1,0 +1,10 @@
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\bin\Debug\Horse_Turn.exe.config
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\bin\Debug\Horse_Turn.exe
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\bin\Debug\Horse_Turn.pdb
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\obj\Debug\Horse_Turn.csproj.AssemblyReference.cache
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\obj\Debug\Horse_Turn.Form1.resources
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\obj\Debug\Horse_Turn.Properties.Resources.resources
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\obj\Debug\Horse_Turn.csproj.GenerateResource.cache
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\obj\Debug\Horse_Turn.csproj.CoreCompileInputs.cache
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\obj\Debug\Horse_Turn.exe
+C:\Users\60611_ksv\source\repos\Horse_Turn\Horse_Turn\obj\Debug\Horse_Turn.pdb
